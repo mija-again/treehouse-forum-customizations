@@ -8,3 +8,12 @@
 #spankscuary-forum-banner[hidden] {
     display: none !important;
 }
+
+
+/* Treehouse: hide Like buttons and counts on posts */
+
+.post-action-menu__like,
+.post-action-menu__like-count {
+    display: none !important;
+}
+
