@@ -1,5 +1,9 @@
+
 {
   "name": "Treehouse Customizations",
   "component": true,
-  "about_url": "https://discourse.thetreehouseforum.net/"
+  "about_url": "https://discourse.thetreehouseforum.net/",
+  "assets": {
+    "treehouse-banner": "assets/Treehouse-forum-banner-1.png"
+  }
 }
