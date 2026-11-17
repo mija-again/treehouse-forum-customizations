@@ -17,3 +17,17 @@
     display: none !important;
 }
 
+
+/* Treehouse Forum: illustrated header banner */
+
+#treehouse-forum-header {
+    width: 100%;
+    max-width: 2048px;
+    aspect-ratio: 2048 / 357;
+    margin: 1rem auto;
+    background-image: url($treehouse-banner);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
